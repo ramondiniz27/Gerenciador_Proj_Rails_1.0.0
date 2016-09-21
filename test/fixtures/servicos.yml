@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_servico: MyString
+  cliente: MyString
+  valor: 9.99
+  detalhes: MyText
+
+two:
+  nome_servico: MyString
+  cliente: MyString
+  valor: 9.99
+  detalhes: MyText

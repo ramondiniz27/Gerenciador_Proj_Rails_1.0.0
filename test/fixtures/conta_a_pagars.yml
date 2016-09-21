@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  valor: 9.99
+  referente: MyString
+  detalhes: MyText
+
+two:
+  nome: MyString
+  valor: 9.99
+  referente: MyString
+  detalhes: MyText
